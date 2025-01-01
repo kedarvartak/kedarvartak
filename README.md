@@ -1,7 +1,7 @@
-<h2 align="center" style="font-family: Poppins, sans-serif;">Hello, My Name is Kedar Vartak</h2>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&color=4F77FF&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Passionate+about+Open+Source;Welcome+to+My+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&color=4F77FF&center=true&vCenter=true&width=500&lines=Hello Im Kedar; Tech+Enthusiast;Passionate+about+Open+Source;Welcome+to+My+Profile!" alt="Typing SVG">
 </p>
 
 ###
