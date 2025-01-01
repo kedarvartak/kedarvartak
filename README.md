@@ -1,17 +1,23 @@
-<h2 align="left">Hello My name is Kedar Vartak</h2>
+<h2 align="center" style="font-family: Poppins, sans-serif;">Hello, My Name is Kedar Vartak</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&color=4F77FF&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Passionate+about+Open+Source;Welcome+to+My+Profile!" alt="Typing SVG">
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kedarvartak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kedarvartak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kedarvartak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kedarvartak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.6Ld46oiqgd_1GyVO1Agw6gAAAA?rs=1&pid=ImgDetMain"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/OIP.6Ld46oiqgd_1GyVO1Agw6gAAAA?rs=1&pid=ImgDetMain" />
 
 ###
+
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -65,14 +71,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/kedar_vartak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="www.linkedin.com/in/kedar-vartak20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kedar-vartak20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
@@ -82,4 +86,4 @@
 
 <img src="https://raw.githubusercontent.com/kedarvartak/kedarvartak/output/snake.svg" alt="Snake animation" />
 
-###
+
